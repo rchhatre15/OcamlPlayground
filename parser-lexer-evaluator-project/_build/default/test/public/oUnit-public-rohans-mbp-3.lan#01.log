@@ -1,0 +1,48 @@
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Start test public:0:public_nothing.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Test public:0:public_nothing is successful.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: End test public:0:public_nothing.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Start test public:2:public_mutop_simple_def_and_let.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Test public:2:public_mutop_simple_def_and_let is successful.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: End test public:2:public_mutop_simple_def_and_let.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Start test public:4:public_expr_apply.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Test public:4:public_expr_apply is successful.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: End test public:4:public_expr_apply.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Start test public:6:public_expr_let_if.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Test public:6:public_expr_let_if is successful.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: End test public:6:public_expr_let_if.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Start test public:8:public_expr_minus_one.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Test public:8:public_expr_minus_one is successful.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: End test public:8:public_expr_minus_one.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Start test public:10:public_expr_simple_equal.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Test public:10:public_expr_simple_equal is successful.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: End test public:10:public_expr_simple_equal.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Start test public:12:public_expr_simple_div.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Test public:12:public_expr_simple_div is successful.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: End test public:12:public_expr_simple_div.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Start test public:13:public_expr_simple_mult.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Test public:13:public_expr_simple_mult is successful.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: End test public:13:public_expr_simple_mult.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Start test public:16:public_expr_single_and.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Test public:16:public_expr_single_and is successful.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: End test public:16:public_expr_single_and.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Start test public:18:public_expr_single_fun.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Test public:18:public_expr_single_fun is successful.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: End test public:18:public_expr_single_fun.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Start test public:20:public_expr_single_let.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Test public:20:public_expr_single_let is successful.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: End test public:20:public_expr_single_let.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Start test public:21:public_expr_single_notequal.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Test public:21:public_expr_single_notequal is successful.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: End test public:21:public_expr_single_notequal.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Start test public:24:public_expr_single_or.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Test public:24:public_expr_single_or is successful.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: End test public:24:public_expr_single_or.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Start test public:25:public_expr_single_string.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Test public:25:public_expr_single_string is successful.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: End test public:25:public_expr_single_string.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Start test public:28:public_mutop_nonempty_env.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Test public:28:public_mutop_nonempty_env is successful.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: End test public:28:public_mutop_nonempty_env.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Start test public:29:public_expr_shadow.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: Test public:29:public_expr_shadow is successful.
+2025-01-22T23:09:08+00:00 rohans-mbp-3.lan#01 I: End test public:29:public_expr_shadow.

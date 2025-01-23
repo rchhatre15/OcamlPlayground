@@ -1,0 +1,27 @@
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Start test public:0:public_insert1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Test public:0:public_insert1 is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: End test public:0:public_insert1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Start test public:2:public_remove2.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Test public:2:public_remove2 is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: End test public:2:public_remove2.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Start test public:4:public_query2.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Test public:4:public_query2 is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: End test public:4:public_query2.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Start test public:6:public_queryBy.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Test public:6:public_queryBy is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: End test public:6:public_queryBy.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Start test public:9:public_tree_fold.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Test public:9:public_tree_fold is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: End test public:9:public_tree_fold.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Start test public:10:public_map.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Test public:10:public_map is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: End test public:10:public_map.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Start test public:12:public_in_order.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Test public:12:public_in_order is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: End test public:12:public_in_order.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Start test public:15:public_depth.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Test public:15:public_depth is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: End test public:15:public_depth.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Start test public:16:public_trim.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Test public:16:public_trim is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: End test public:16:public_trim.

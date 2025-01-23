@@ -1,0 +1,6 @@
+(library
+ (name p2b)
+ (modules tree db))
+(env
+  (dev
+    (flags (:standard -w -11-12-20-26-31-32-33-56-60-27-39))))

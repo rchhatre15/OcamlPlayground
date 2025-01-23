@@ -1,0 +1,169 @@
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Runner: processes
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Chooser: simple
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Configuration suite_name = "public"
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Configuration cache_filename = "/Users/ro/Code/OcamlPlayground/trees-db-project/_build/default/test/public/oUnit-$(suite_name).cache"
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Configuration run_gc_full_major = "true"
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Configuration display = "true"
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Configuration results_style_1_X = "false"
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Configuration testdata_dir = "none"
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Configuration health_check_interval = "1."
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Configuration verbose = "false"
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Configuration chooser = "simple"
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Configuration output_html_dir = "none"
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Configuration processes_kill_period = "5."
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Configuration runner = "processes"
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Configuration shards = "2"
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Configuration processes_grace_period = "5."
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Configuration log_encoding = "utf-8"
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Configuration output_junit_file = "none"
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Configuration ci = "false"
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Configuration output_file = "/Users/ro/Code/OcamlPlayground/trees-db-project/_build/default/test/public/oUnit-$(suite_name)-$(shard_id).log"
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Using 2 workers maximum.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Starting worker number rohans-mbp-3.lan#01.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Worker rohans-mbp-3.lan#01 started.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Starting worker number rohans-mbp-3.lan#02.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Worker rohans-mbp-3.lan#02 started.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:1:public_remove1, public:0:public_insert1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Start test public:0:public_insert1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:1:public_remove1, public:0:public_insert1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: Start test public:1:public_remove1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:1:public_remove1, public:0:public_insert1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Test public:0:public_insert1 is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:1:public_remove1, public:0:public_insert1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: End test public:0:public_insert1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:1:public_remove1, public:0:public_insert1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:2:public_remove2, public:1:public_remove1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Start test public:2:public_remove2.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:2:public_remove2, public:1:public_remove1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: Test public:1:public_remove1 is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:2:public_remove2, public:1:public_remove1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: End test public:1:public_remove1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:2:public_remove2, public:1:public_remove1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:3:public_query1, public:2:public_remove2.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: Start test public:3:public_query1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:3:public_query1, public:2:public_remove2.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Test public:2:public_remove2 is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:3:public_query1, public:2:public_remove2.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: End test public:2:public_remove2.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:3:public_query1, public:2:public_remove2.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: Test public:3:public_query1 is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:4:public_query2, public:3:public_query1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: End test public:3:public_query1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:4:public_query2, public:3:public_query1.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Start test public:4:public_query2.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:5:public_sort, public:4:public_query2.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: Start test public:5:public_sort.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:5:public_sort, public:4:public_query2.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Test public:4:public_query2 is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:5:public_sort, public:4:public_query2.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: End test public:4:public_query2.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:5:public_sort, public:4:public_query2.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: Test public:5:public_sort is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:6:public_queryBy, public:5:public_sort.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: End test public:5:public_sort.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:6:public_queryBy, public:5:public_sort.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:7:public_update, public:6:public_queryBy.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Start test public:6:public_queryBy.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:7:public_update, public:6:public_queryBy.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: Start test public:7:public_update.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:7:public_update, public:6:public_queryBy.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Test public:6:public_queryBy is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: Test public:7:public_update is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:7:public_update, public:6:public_queryBy.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: End test public:6:public_queryBy.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: End test public:7:public_update.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:7:public_update, public:6:public_queryBy.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:9:public_tree_fold, public:8:public_deleteAll.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: Start test public:8:public_deleteAll.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:9:public_tree_fold, public:8:public_deleteAll.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Start test public:9:public_tree_fold.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:9:public_tree_fold, public:8:public_deleteAll.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: Test public:8:public_deleteAll is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Test public:9:public_tree_fold is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:9:public_tree_fold, public:8:public_deleteAll.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: End test public:8:public_deleteAll.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: End test public:9:public_tree_fold.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:9:public_tree_fold, public:8:public_deleteAll.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:11:public_mirror, public:10:public_map.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Start test public:10:public_map.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: Start test public:11:public_mirror.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:11:public_mirror, public:10:public_map.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Test public:10:public_map is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:11:public_mirror, public:10:public_map.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: End test public:10:public_map.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: Test public:11:public_mirror is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:11:public_mirror, public:10:public_map.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: End test public:11:public_mirror.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:12:public_in_order, public:11:public_mirror.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:13:public_pre_order, public:12:public_in_order.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Start test public:12:public_in_order.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:13:public_pre_order, public:12:public_in_order.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: Start test public:13:public_pre_order.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:13:public_pre_order, public:12:public_in_order.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Test public:12:public_in_order is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: Test public:13:public_pre_order is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:13:public_pre_order, public:12:public_in_order.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: End test public:12:public_in_order.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: End test public:13:public_pre_order.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:13:public_pre_order, public:12:public_in_order.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:15:public_depth, public:14:public_compose.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: Start test public:14:public_compose.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:15:public_depth, public:14:public_compose.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Start test public:15:public_depth.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:15:public_depth, public:14:public_compose.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: Test public:14:public_compose is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Test public:15:public_depth is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:15:public_depth, public:14:public_compose.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: End test public:14:public_compose.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: End test public:15:public_depth.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:15:public_depth, public:14:public_compose.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Still 2 tests running : public:17:public_from_pre_in, public:16:public_trim.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:17:public_from_pre_in, public:16:public_trim.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Start test public:16:public_trim.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: Start test public:17:public_from_pre_in.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Still 2 tests running : public:17:public_from_pre_in, public:16:public_trim.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:17:public_from_pre_in, public:16:public_trim.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: Test public:16:public_trim is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: Test public:17:public_from_pre_in is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Still 2 tests running : public:17:public_from_pre_in, public:16:public_trim.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:17:public_from_pre_in, public:16:public_trim.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#01 I: End test public:16:public_trim.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#02 I: End test public:17:public_from_pre_in.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Still 2 tests running : public:17:public_from_pre_in, public:16:public_trim.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 2 tests running: public:17:public_from_pre_in, public:16:public_trim.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: 0 tests running: .
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Worker rohans-mbp-3.lan#01 has ended.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Worker rohans-mbp-3.lan#02 has ended.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Used 2 worker during test execution.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Run 9 tests with shard rohans-mbp-3.lan#02.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Run 9 tests with shard rohans-mbp-3.lan#01.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Check health of shard rohans-mbp-3.lan#02, 1 times.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Check health of shard rohans-mbp-3.lan#01, 1 times.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: ==============
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Summary:
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Test public:17:public_from_pre_in is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Test public:16:public_trim is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Test public:15:public_depth is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Test public:14:public_compose is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Test public:13:public_pre_order is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Test public:12:public_in_order is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Test public:11:public_mirror is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Test public:10:public_map is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Test public:9:public_tree_fold is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Test public:8:public_deleteAll is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Test public:7:public_update is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Test public:6:public_queryBy is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Test public:5:public_sort is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Test public:4:public_query2 is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Test public:3:public_query1 is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Test public:2:public_remove2 is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Test public:1:public_remove1 is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Test public:0:public_insert1 is successful.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Ran: 18 tests in: 0.11 seconds.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Cases: 18.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Tried: 18.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Errors: 0.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Failures: 0.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Skip: 0.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Todo: 0.
+2025-01-22T23:24:53+00:00 rohans-mbp-3.lan#00 I: Timeout: 0.
